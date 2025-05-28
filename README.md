@@ -46,7 +46,7 @@
 
 
 ### ⚡ Fun fact:
-I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
+- I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
 ---
 > “Technology should empower and uplift — not just innovate.”
 ---
