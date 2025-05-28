@@ -47,7 +47,7 @@
 
 ### ⚡ Fun fact:
 I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
-
 ---
-
 > “Technology should empower and uplift — not just innovate.”
+---
+![Gugu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guguandiledontsa&show_icons=true&theme=radical)
