@@ -44,6 +44,14 @@
 
 ---
 
+### ⚡ Fun fact:
+
+> I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
+
+> _“Technology should empower and uplift — not just innovate.”_
+
+---
+
 ### 📫 How to reach me:
 
 <p align="center">
@@ -65,14 +73,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,html,css,postgres,nodejs,git,github,jupyter,tableau" alt="Tech Stack" />
 </p>
-
----
-
-### ⚡ Fun fact:
-
-> I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
-
-> _“Technology should empower and uplift — not just innovate.”_
 
 ---
 
