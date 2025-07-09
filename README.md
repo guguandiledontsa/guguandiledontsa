@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> &nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+   &nbsp;
   <strong>Aspiring Data Scientist | Software Engineering Graduate @ WeThinkCode_</strong>
 </p>
 
@@ -69,10 +73,6 @@
 > I got into tech because of **Ben 10**, **Transformers**, and **Inspector Gadget** — I love tech that solves problems with creativity.
 
 > _“Technology should empower and uplift — not just innovate.”_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
-</p>
 
 ---
 
