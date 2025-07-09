@@ -1,7 +1,3 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> &nbsp;
   <strong>Aspiring Data Scientist | Software Engineering Graduate @ WeThinkCode_</strong>
