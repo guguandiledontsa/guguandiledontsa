@@ -1,6 +1,5 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋+Hi+there%2C+I'm+Gugu+(Andile)+Dontsa;Aspiring+Data+Scientist+%7C+Tech+4+Impact;They%2FThem+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+JavaScript" alt="Typing SVG" />
 </h1>
 
 <p align="center">
