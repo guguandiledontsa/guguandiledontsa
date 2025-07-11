@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  💡 Passionate about Tech for Social Impact &nbsp;|&nbsp; 📍 Johannesburg &nbsp;|&nbsp; 🏳️‍🌈 Pronouns: <b>they/them</b>
+  💡 Passionate about Tech for Social Impact &nbsp;|&nbsp; 📍 Johannesburg &nbsp;|&nbsp; 🏳️‍🌈 Pronouns: <b>he/him|they/them</b>
 </p>
 
 ---
